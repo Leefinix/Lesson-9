@@ -17,4 +17,4 @@ else:
     surcharge = 55
 
 total = amount + surcharge
-print("\n Electricity Bill = %.2f", total)
+print("\n Electricity Bill = %.2f" %total)
